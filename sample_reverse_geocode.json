@@ -1,0 +1,32 @@
+{
+    "summary":{
+        "queryTime":15,
+        "numResults":1
+    },
+    "addresses":[
+        {
+            "address":{
+                "routeNumbers":[
+                    "NH-32"
+                ],
+                "street":"E Coast Road",
+                "streetName":"E Coast Road",
+                "countryCode":"IN",
+                "countrySubdivision":"Pondicherry",
+                "countrySecondarySubdivision":"Puducherry",
+                "municipality":"Pondicherry",
+                "postalCode":"605010",
+                "municipalitySubdivision":"Keerapalayam East",
+                "country":"India",
+                "countryCodeISO3":"IND",
+                "freeformAddress":"E Coast Road, Pondicherry Keerapalayam East, Pondicherry, 605010",
+                "boundingBox":{
+                    "northEast":"11.924861,79.808135",
+                    "southWest":"11.924633,79.808058",
+                    "entity":"position"
+                }
+            },
+            "position":"11.924755,79.808098"
+        }
+    ]
+}
